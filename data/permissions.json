@@ -874,13 +874,13 @@
       "Essentials",
       "kit",
       "essentials.kit.exemptdelay",
-      "Освобождает вас от функции задержки набора, это влияет как на знаки, так и на команды".
+      "Освобождает вас от функции задержки набора, это влияет как на знаки, так и на команды"
     ],
     [
       "Essentials",
       "kit",
       "essentials.kit.others",
-      "Позволяет выдавать киты для других игроков".
+      "Позволяет выдавать киты для других игроков"
     ],
     [
       "Essentials",
@@ -2950,7 +2950,7 @@
       "EssentialsChat",
       null,
       "essentials.toggleshout",
-      "Переключает, говорите ли вы в режиме крика".
+      "Переключает, говорите ли вы в режиме крика"
     ],
     [
       "EssentialsChat",
@@ -2998,13 +2998,13 @@
       "EssentialsAntiBuild",
       null,
       "essentials.build",
-      "Позволяет людям строить при использовании систем разрешения, которые не поддерживают переключатели сборки".
+      "Позволяет людям строить при использовании систем разрешения, которые не поддерживают переключатели сборки"
     ],
     [
       "EssentialsAntiBuild",
       null,
       "essentials.build.<action>.<material>",
-      "Позволяет выполнять <action> для <material>, action being place, break, interact, craft, drop or pickup."
+      "Позволяет выполнять <action> для <material>, action being place, break, interact, craft, drop or pickup"
     ],
     [
       "EssentialsAntiBuild",
