@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>EssentialsX Info - Permissions</title>
+        <title>EssentialsX Info - Разрешения</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/darkly/bootstrap.min.css" />
@@ -26,15 +26,15 @@
                     "columnDefs": [
                         {
                             "targets": [0],
-                            "title": "Module"
+                            "title": "Модуль"
                         },
                         {
                             "targets": [1],
-                            "title": "Command"
+                            "title": "Команда"
                         },
                         {
                             "targets": [2],
-                            "title": "Permission",
+                            "title": "Разрешение",
                             "render": function (data) {
                                 data = data.replace(/\</g,"&lt;").replace(/\>/g,"&gt;");
                                 return '<code>'+data+'</code>';
@@ -43,7 +43,7 @@
                         },
                         {
                             "targets": [3],
-                            "title": "Description",
+                            "title": "Описание",
                             "render": function (data) {
                                 data = data.replace(/\</g,"&lt;").replace(/\>/g,"&gt;");
                                 return data;
@@ -139,23 +139,23 @@
             <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="./index.html">Home</a>
+                        <a class="nav-link" href="./index.html">Домашняя страница</a>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link" href="./permissions.html">Permissions</a>
+                        <a class="nav-link" href="./permissions.html">Разрешения</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./commands.html">Commands</a>
+                        <a class="nav-link" href="./commands.html">Команды</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="https://github.com/EssentialsX/Essentials">GitHub</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://xeya.me/essxdl">Downloads</a>
+                        <a class="nav-link" href="https://xeya.me/essxdl">Скачать</a>
                     </li>
                 </ul>
                 <a href="https://github.com/Xeyame/essinfo.xeya.me"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&color=lightgrey"></a>
-                <button type="button" class="btn btn-dark ml-2" id="widthSwitch" onclick="changeWidth()">Change width</button>
+                <button type="button" class="btn btn-dark ml-2" id="widthSwitch" onclick="changeWidth()">Изменить ширину</button>
             </div>
         </nav>
 
