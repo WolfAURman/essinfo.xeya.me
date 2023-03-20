@@ -4,434 +4,434 @@
       "Essentials",
       "editsign",
       "sign, esign, eeditsign",
-      "Edits a sign in the world.",
+      "Редактирует знак в мире.",
       "/<command> <set/clear/copy/paste> [line number] [text]"
     ],
     [
       "Essentials",
       "repair",
       "fix, efix, erepair",
-      "Repairs the durability of one or all items.",
+      "Восстанавливает долговечность одного или всех предметов.",
       "/<command> [hand|all]"
     ],
     [
       "Essentials",
       "msgtoggle",
       "emsgtoggle",
-      "Blocks receiving all private messages.",
+      "Блокирует получение всех личных сообщений.",
       "/<command> [player] [on|off]"
     ],
     [
       "Essentials",
       "setjail",
       "esetjail, createjail, ecreatejail",
-      "Creates a jail where you specified named [jailname].",
+      "Создает тюрьму, где вы указали имя [jailname].",
       "/<command> <jailname>"
     ],
     [
       "Essentials",
       "settpr",
       "[esettpr, settprandom, esettprandom]",
-      "Set the random teleport location and parameters.",
+      "Установите случайное местоположение и параметры телепорта.",
       "/<command> [center|minrange|maxrange] [value]"
     ],
     [
       "Essentials",
       "help",
       "ehelp",
-      "Views a list of available commands.",
+      "Просмотр списка доступных команд.",
       "/<command> [search term] [page]"
     ],
     [
       "Essentials",
       "clearinventoryconfirmtoggle",
       "eclearinventoryconfirmtoggle, clearinventoryconfirmoff, eclearinventoryconfirmoff, clearconfirmoff, eclearconfirmoff, clearconfirmon, eclearconfirmon, clearconfirm, eclearconfirm",
-      "Toggles whether you are prompted to confirm inventory clears.",
+      "Переключает, будет ли вам предложено подтвердить очистку инвентаря.",
       "/<command>"
     ],
     [
       "Essentials",
       "mute",
       "emute, silence, esilence",
-      "Mutes or unmutes a player.",
+      "Отключает и включает звук игрока.",
       "/<command> <player> [datediff]"
     ],
     [
       "Essentials",
       "spawner",
       "changems, echangems, espawner, mobspawner, emobspawner",
-      "Change the mob type of a spawner.",
+      "Изменить тип моба спавнера.",
       "/<command> <mob> [delay]"
     ],
     [
       "Essentials",
       "deljail",
       "edeljail, remjail, eremjail, rmjail, ermjail",
-      "Removes a jail.",
+      "Удаляет тюрьму.",
       "/<command> <jailname>"
     ],
     [
       "Essentials",
       "powertool",
       "epowertool, pt, ept",
-      "Assigns a command to the item in hand.\r\n\r\nUse 'c:' as the command to make a chat macro.\r\nUse 'a:' to append multiple commands.\r\nUse 'r:' to remove a single command.\r\nUse 'l:' to list all power tools\r\nUse 'd:' to remove all power tools \r\n",
+      "Назначает команду предмету в руке.\r\n\r\nUse 'c:' as the command to make a chat macro.\r\nUse 'a:' to append multiple commands.\r\nUse 'r:' to remove a single command.\r\nUse 'l:' to list all power tools\r\nUse 'd:' to remove all power tools \r\n",
       "/<command> [l:|a:|r:|c:|d:][command] [arguments]\r\n({player} can be replaced by name of a clicked player.)\r\n"
     ],
     [
       "Essentials",
       "weather",
       "rain, erain, sky, esky, storm, estorm, sun, esun, eweather",
-      "Sets the weather.",
+      "Устанавливает погоду.",
       "/<command> <storm\/sun> [duration]"
     ],
     [
       "Essentials",
       "gc",
       "lag, elag, egc, mem, emem, memory, ememory, uptime, euptime, tps, etps, entities, eentities",
-      "Reports memory, uptime and tick info.",
+      "Сообщает о памяти, времени безотказной работы и информации о тиках.",
       "/<command>"
     ],
     [
       "Essentials",
       "delhome",
       "edelhome, remhome, eremhome, rmhome, ermhome",
-      "Removes a home.",
+      "Удаляет дом.",
       "/<command> [player:]<name>"
     ],
     [
       "Essentials",
       "enderchest",
       "echest, eechest, eenderchest, endersee, eendersee, ec, eec",
-      "Lets you see inside an enderchest.",
+      "Позволяет заглянуть внутрь эндерсундука.",
       "/<command> [player]"
     ],
     [
       "Essentials",
       "powertooltoggle",
       "epowertooltoggle, ptt, eptt, pttoggle, epttoggle",
-      "Enables or disables all current powertools.",
+      "Включает или отключает все текущие электроинструменты.",
       "/<command>"
     ],
     [
       "Essentials",
       "kickall",
       "ekickall",
-      "Kicks all players off the server except the issuer.",
+      "Выкидывает всех игроков с сервера, кроме издателя.",
       "/<command> [reason]"
     ],
     [
       "Essentials",
       "speed",
       "flyspeed, eflyspeed, fspeed, efspeed, espeed, walkspeed, ewalkspeed, wspeed, ewspeed",
-      "Change your walk or fly speed.",
+      "Измените скорость ходьбы или полета.",
       "/<command> [type] <speed> [player]"
     ],
     [
       "Essentials",
       "tpall",
       "etpall",
-      "Teleport all online players to another player.",
+      "Телепортировать всех онлайн-игроков к другому игроку.",
       "/<command> [player]"
     ],
     [
       "Essentials",
       "suicide",
       "esuicide",
-      "Causes you to perish.",
+      "Заставляет вас погибнуть.",
       "/<command>"
     ],
     [
       "Essentials",
       "whois",
       "ewhois",
-      "Displays player information",
+      "Отображает информацию об игроке",
       "/<command> <nickname|playername>"
     ],
     [
       "Essentials",
       "essentials",
       "eessentials, ess, eess, essversion",
-      "Reloads essentials and has some debug featues.",
+      "Перезагружает основы и имеет некоторые функции отладки.",
       "/<command> [debug|verbose|ver|version|cmd|commands|dump|reload|reset|cleanup|homes|uuidconvert|uuidtest|nya|nyan|moo]"
     ],
     [
       "Essentials",
       "tptoggle",
       "etptoggle",
-      "Blocks all forms of teleportation.",
+      "Блокирует все формы телепортации.",
       "/<command> [player] [on|off]"
     ],
     [
       "Essentials",
       "disposal",
       "edisposal, trash, etrash",
-      "Opens a portable disposal menu.",
+      "Открывает меню портативной утилизации.",
       "/<command>"
     ],
     [
       "Essentials",
       "top",
       "etop",
-      "Teleport to the highest block at your current position.",
+      "Телепортируйтесь к самому высокому блоку в вашей текущей позиции.",
       "/<command>"
     ],
     [
       "Essentials",
       "gamemode",
       "adventure, eadventure, adventuremode, eadventuremode, creative, eecreative, creativemode, ecreativemode, egamemode, gm, egm, gma, egma, gmc, egmc, gms, egms, gmt, egmt, survival, esurvival, survivalmode, esurvivalmode, gmsp, sp, egmsp, spec, spectator",
-      "Change player gamemode.",
+      "Изменить игровой режим игрока.",
       "/<command>\n<survival|creative|adventure|spectator>\n[player]"
     ],
     [
       "Essentials",
       "condense",
       "econdense, compact, ecompact, blocks, eblocks, toblocks, etoblocks",
-      "Condenses items into a more compact blocks.",
+      "Конденсирует элементы в более компактные блоки.",
       " /<command> [itemname]"
     ],
     [
       "Essentials",
       "tp",
       "tele, etele, teleport, eteleport, etp, tp2p, etp2p",
-      "Teleport to a player.",
+      "Телепортироваться к игроку.",
       "/<command> <player> [otherplayer]"
     ],
     [
       "Essentials",
       "tpoffline",
       "otp, offlinetp, tpoff, tpoffline",
-      "Teleport to a player's last known logout location",
+      "Телепортироваться к последнему известному местоположению выхода игрока.",
       "/<command> <player>"
     ],
     [
       "Essentials",
       "setworth",
       "esetworth",
-      "Set the sell value of an item.",
+      "Установить стоимость продажи предмета.",
       "/<command> [itemname|id] <price>"
     ],
     [
       "Essentials",
       "spawnmob",
       "mob, emob, spawnentity, espawnentity, espawnmob",
-      "Spawns a mob.",
+      "Создает моба.",
       "/<command> <mob>[:data][,<mount>[:data]] [amount] [player]"
     ],
     [
       "Essentials",
       "book",
       "ebook",
-      "Allows reopening and editing of sealed books.",
+      "Позволяет повторно открывать и редактировать запечатанные книги.",
       "/<command> [title|author [name]]"
     ],
     [
       "Essentials",
       "time",
       "day, eday, night, enight, etime",
-      "Display\/Change the world time. Defaults to current world.",
+      "Отображение\/Изменение мирового времени. По умолчанию текущий мир.",
       "/<command> [day|night|dawn|17:30|4pm|4000ticks] [worldname|all]"
     ],
     [
       "Essentials",
       "tpaall",
       "etpaall",
-      "Requests all players online to teleport to you.",
+      "Просит всех игроков онлайн телепортироваться к вам.",
       "/<command> <player>"
     ],
     [
       "Essentials",
       "mail",
       "email, eemail, memo, ememo",
-      "Manages inter-player, intra-server mail.",
+      "Управляет межигровой, внутрисерверной почтой.",
       "/<command> [read|clear|clear [number]|send [to] [message]|sendtemp [to] [expire time] [message]|sendall [message]]"
     ],
     [
       "Essentials",
       "hat",
       "ehat, head, ehead",
-      "Get some cool new headgear.",
+      "Получите новый крутой головной убор.",
       "/<command> [remove]"
     ],
     [
       "Essentials",
       "worth",
       "eprice, price, eworth",
-      "Calculates the worth of items in hand or as specified.",
+      "Рассчитывает стоимость предметов в руке или как указано.",
       "/<command> <<itemname>|<id>|hand|inventory|blocks> [-][amount]"
     ],
     [
       "Essentials",
       "kick",
       "ekick",
-      "Kicks a specified player with a reason.",
+      "Кикает указанного игрока с указанием причины.",
       "/<command> <player> [reason]"
     ],
     [
       "Essentials",
       "more",
       "emore",
-      "Fills the item stack in hand to specified amount, or to maximum size if none is specified.",
+      "Заполняет стопку предметов в руке до указанной суммы или до максимального размера, если ничего не указано.",
       "/<command> [amount]"
     ],
     [
       "Essentials",
       "info",
       "about, eabout, ifo, eifo, einfo, inform, einform, news, enews",
-      "Shows information set by the server owner.",
+      "Показывает информацию, установленную владельцем сервера.",
       "/<command> [chapter] [page]"
     ],
     [
       "Essentials",
       "tpahere",
       "etpahere",
-      "Request that the specified player teleport to you.",
+      "Запросить, чтобы указанный игрок телепортировался к вам.",
       "/<command> <player>"
     ],
     [
       "Essentials",
       "realname",
       "erealname",
-      "Displays the username of a user based on nick.",
+      "Отображает имя пользователя на основе ника.",
       "/<command> <nickname>"
     ],
     [
       "Essentials",
       "bigtree",
       "ebigtree, largetree, elargetree",
-      "Spawn a big tree where you are looking.",
+      "Создайте большое дерево там, где вы смотрите.",
       "/<command> <tree|redwood|jungle>"
     ],
     [
       "Essentials",
       "rest",
       "erest",
-      "Rests you or the given player.",
+      "Отдыхает вы или данный игрок.",
       "/<command> [player]"
     ],
     [
       "Essentials",
       "rules",
       "erules",
-      "Views the server rules.",
+      "Просмотр правил сервера.",
       "/<command> [chapter] [page]"
     ],
     [
       "Essentials",
       "recipe",
       "formula, eformula, method, emethod, erecipe, recipes, erecipes",
-      "Displays how to craft items.",
+      "Показывает, как создавать предметы.",
       "/<command> <item> [number]"
     ],
     [
       "Essentials",
       "sethome",
       "esethome, createhome, ecreatehome",
-      "Set home to your current location.",
+      "Установить дом в ваше текущее местоположение.",
       "/<command> [player:]<name>"
     ],
     [
       "Essentials",
       "pweather",
       "playerweather, eplayerweather, epweather",
-      "Adjust a player's weather",
+      "Настройка погоды игрока",
       "/<command> [list|reset|storm|sun|clear] [player|*]"
     ],
     [
       "Essentials",
       "setwarp",
       "createwarp, ecreatewarp, esetwarp",
-      "Creates a new warp.",
+      "Создает новый варп.",
       "/<command> <warp>"
     ],
     [
       "Essentials",
       "delwarp",
       "edelwarp, remwarp, eremwarp, rmwarp, ermwarp",
-      "Deletes the specified warp.",
+      "Удаляет указанный варп.",
       "/<command> <warp>"
     ],
     [
       "Essentials",
       "warpinfo",
       "ewarpinfo",
-      "Finds location information for a specified warp.",
+      "Находит информацию о местоположении для указанного варпа.",
       "/<command> <warp>"
     ],
     [
       "Essentials",
       "warp",
       "ewarp, warps, ewarps",
-      "List all warps or warp to the specified location.",
+      "Список всех деформаций или деформаций в указанное место.",
       "/<command> <pagenumber|warp> [player]"
     ],
     [
       "Essentials",
       "break",
       "ebreak",
-      "Breaks the block you are looking at.",
+      "Разбивает блок, на который вы смотрите.",
       "/<command>"
     ],
     [
       "Essentials",
       "msg",
       "w, m, t, pm, emsg, epm, tell, etell, whisper, ewhisper",
-      "Sends a private message to the specified player.",
+      "Отправляет личное сообщение указанному игроку.",
       "/<command> <to> <message>"
     ],
     [
       "Essentials",
       "compass",
       "ecompass, direction, edirection",
-      "Describes your current bearing.",
+      "Описывает ваш текущий пеленг.",
       "/<command>"
     ],
     [
       "Essentials",
       "world",
       "eworld",
-      "Switch between worlds.",
+      "Переключение между мирами.",
       "/<command> [world]"
     ],
     [
       "Essentials",
       "me",
       "action, eaction, describe, edescribe, eme",
-      "Describes an action in the context of the player.",
+      "Описывает действие в контексте игрока.",
       "/<command> <description>"
     ],
     [
       "Essentials",
       "payconfirmtoggle",
       "epayconfirmtoggle, payconfirmoff, epayconfirmoff, payconfirmon, epayconfirmon, payconfirm, epayconfirm",
-      "Toggles whether you are prompted to confirm payments.",
+      "Переключает, будет ли вам предложено подтвердить платежи.",
       "/<command>"
     ],
     [
       "Essentials",
       "ext",
       "eext, extinguish, eextinguish",
-      "Extinguish players.",
+      "Гасить игроков.",
       "/<command> [player]"
     ],
     [
       "Essentials",
       "broadcastworld",
       "bcw, ebcw, bcastw, ebcastw, ebroadcastworld, shoutworld, eshoutworld",
-      "Broadcasts a message to a world.",
+      "Передает сообщение миру.",
       "/<command> <world> <msg>"
     ],
     [
       "Essentials",
       "toggleshout",
       "etoggleshout",
-      "Toggles whether you are talking in shout mode",
+      "Переключает, говорите ли вы в режиме крика",
       "/<command> [player] [on|off]"
     ],
     [
       "Essentials",
       "togglejail",
       "jail, ejail, tjail, etjail, etogglejail, unjail, eunjail",
-      "Jails\/Unjails a player, TPs them to the jail specified.",
+      "Тюрьма\/Освобождает игрока, телепортирует его в указанную тюрьму.",
       "/<command> <player> <jailname> [datediff]"
     ],
     [
@@ -445,658 +445,658 @@
       "Essentials",
       "list",
       "elist, online, eonline, playerlist, eplayerlist, plist, eplist, who, ewho",
-      "List all online players.",
+      "Список всех онлайн-игроков.",
       "/<command> [group]"
     ],
     [
       "Essentials",
       "remove",
       "eremove, butcher, ebutcher, killall, ekillall, mobkill, emobkill",
-      "Removes entities in your world.",
+      "Удаляет сущности в вашем мире.",
       "/<command> <all|tamed|named|drops|arrows|boats|\nminecarts|xp|paintings|itemframes|endercrystals|\nmonsters|animals|ambient|mobs|[mobType]> [radius|world]"
     ],
     [
       "Essentials",
       "lightning",
       "elightning, shock, eshock, smite, esmite, strike, estrike, thor, ethor",
-      "The power of Thor. Strikes at the cursor or a player.",
+      "Сила Тора. Удары по курсору или игроку.",
       "/<command> [player] [power]"
     ],
     [
       "Essentials",
       "ice",
       "eice, efreeze",
-      "Cools a player off.",
+      "Охлаждает игрока.",
       "/<command> [player]"
     ],
     [
       "Essentials",
       "ignore",
       "eignore, unignore, eunignore, delignore, edelignore, remignore, eremignore, rmignore, ermignore",
-      "Ignore or unignore other players.",
+      "Игнорировать или отменить игнорирование других игроков.",
       "/<command> <player>"
     ],
     [
       "Essentials",
       "item",
       "i, eitem, ei",
-      "Spawn an item.",
+      "Создать предмет.",
       "/<command> <item|numeric> [amount [itemmeta...]]"
     ],
     [
       "Essentials",
       "near",
       "enear, nearby, enearby",
-      "Lists the players near by or around a player.",
+      "Список игроков рядом или вокруг игрока.",
       "/<command> [playername] [radius]"
     ],
     [
       "Essentials",
       "firework",
       "efirework",
-      "Allows you to modify a stack of fireworks.",
+      "Позволяет изменять стек фейерверков.",
       "/<command> <<meta param>|power [amount]|clear|fire [amount]>"
     ],
     [
       "Essentials",
       "invsee",
       "einvsee",
-      "See and/or edit the inventory of other players.",
+      "Просматривайте и/или редактируйте инвентарь других игроков.",
       "/<command> <player> [armor]"
     ],
     [
       "Essentials",
       "balancetop",
       "ebalancetop, baltop, ebaltop",
-      "Lists players by top balances.",
+      "Списки игроков по максимальному балансу.",
       "/<command> [page]"
     ],
     [
       "Essentials",
       "ban",
       "eban",
-      "Bans a player.",
+      "Банит игрока.",
       "/<command> <player> [reason]"
     ],
     [
       "Essentials",
       "kill",
       "ekill",
-      "Kills specified player.",
+      "Убивает указанного игрока.",
       "/<command> <player>"
     ],
     [
       "Essentials",
       "balance",
       "bal, ebal, ebalance, money, emoney",
-      "States the current balance of a player.",
+      "Указывает текущий баланс игрока.",
       "/<command> [player]"
     ],
     [
       "Essentials",
       "enchant",
       "eenchant, enchantment, eenchantment",
-      "Enchants the item the user is holding.",
+      "Зачаровывает предмет, который держит пользователь.",
       "/<command> <enchantmentname> [level]"
     ],
     [
       "Essentials",
       "banip",
       "ebanip",
-      "Bans an IP address.",
+      "Банит IP-адрес.",
       "/<command> <address> [reason]"
     ],
     [
       "Essentials",
       "socialspy",
       "esocialspy",
-      "Toggles if you can see msg\/mail commands in chat.",
+      "Переключает, если вы можете видеть команды msg\/mail в чате.",
       "/<command> [player] [on|off]"
     ],
     [
       "Essentials",
       "workbench",
       "craft, ecraft, wb, ewb, wbench, ewbench, eworkbench",
-      "Opens up a workbench.",
+      "Открывает верстак.",
       "/<command>"
     ],
     [
       "Essentials",
       "anvil",
       "eanvil",
-      "Opens up an Anvil.",
+      "Открывает наковальню.",
       "/<command>"
     ],
     [
       "Essentials",
       "cartographytable",
       "ecartographytable, carttable, ecarttable",
-      "Opens up a cartography table.",
+      "Открывает картографический стол.",
       "/<command>"
     ],
     [
       "Essentials",
       "grindstone",
       "egrindstone",
-      "Opens up a grindstone.",
+      "Открывает точильный камень.",
       "/<command>"
     ],
     [
       "Essentials",
       "loom",
       "eloom",
-      "Opens up a loom.",
+      "Открывает ткацкий станок.",
       "/<command>"
     ],
     [
       "Essentials",
       "smithingtable",
       "esmithingtable, smithtable, esmithtable",
-      "Opens up a smithing table.",
+      "Открывает кузнечный стол.",
       "/<command>"
     ],
     [
       "Essentials",
       "stonecutter",
       "estonecutter",
-      "Opens up a stonecutter.",
+      "Открывает резчика по камню.",
       "/<command>"
     ],
     [
       "Essentials",
       "motd",
       "emotd",
-      "Views the Message Of The Day.",
+      "Просмотр сообщения дня.",
       "/<command> [chapter] [page]"
     ],
     [
       "Essentials",
       "ptime",
       "playertime, eplayertime, eptime",
-      "Adjust player's client time. Add @ prefix to fix.",
+      "Отрегулируйте время клиента игрока. Добавьте префикс @ для исправления.",
       "/<command> [list|reset|day|night|dawn|17:30|4pm|4000ticks] [player|*]"
     ],
     [
       "Essentials",
       "give",
       "egive",
-      "Give a player an item.",
+      "Дать игроку предмет.",
       "/<command> <player> <item|numeric> [amount [itemmeta...]]"
     ],
     [
       "Essentials",
       "tree",
       "etree",
-      "Spawn a tree where you are looking.",
+      "Создайте дерево там, где вы смотрите.",
       "/<command> <tree|birch|redwood|redmushroom|\nbrownmushroom|jungle|junglebush|swamp>"
     ],
     [
       "Essentials",
       "tpacancel",
       "etpacancel",
-      "Cancel all outstanding teleport requests. Specify [player] to cancel requests with them.",
+      "Отмените все невыполненные запросы телепортации. Укажите [player] для отмены запросов с ним.",
       "/<command> [player]"
     ],
     [
       "Essentials",
       "sudo",
       "esudo",
-      "Make another user perform a command.",
+      "Заставить другого пользователя выполнить команду.",
       "/<command> <player> <command [args]>"
     ],
     [
       "Essentials",
       "back",
       "eback, return, ereturn",
-      "Teleports you to your location prior to tp\/spawn\/warp.",
+      "Телепортирует вас в ваше местоположение до tp\/spawn\/warp.",
       "/<command>"
     ],
     [
       "Essentials",
       "jump",
       "j, ej, ejump, jumpto, ejumpto",
-      "Jumps to the nearest block in the line of sight.",
+      "Прыгает на ближайший блок в поле зрения.",
       "/<command>"
     ],
     [
       "Essentials",
       "fly",
       "efly",
-      "Take off, and soar!",
+      "Взлетай и пари!",
       "/<command> [player] [on|off]"
     ],
     [
       "Essentials",
       "potion",
       "epotion, elixer, eelixer",
-      "Adds custom potion effects to a potion.",
+      "Добавляет к зелью пользовательские эффекты зелий.",
       "/<command> <clear|apply|effect:<effect> power:<power> duration:<duration>>"
     ],
     [
       "Essentials",
       "seen",
       "eseen",
-      "Shows the last logout time of a player.",
+      "Показывает время последнего выхода игрока.",
       "/<command> <playername>"
     ],
     [
       "Essentials",
       "home",
       "ehome, homes, ehomes",
-      "Teleport to your home.",
+      "Телепортируйтесь к себе домой.",
       "/<command> [player:]<name>"
     ],
     [
       "Essentials",
       "vanish",
       "v, ev, evanish",
-      "Hide yourself from other players.",
+      "Прячьтесь от других игроков.",
       "/<command> [player] [on|off]"
     ],
     [
       "Essentials",
       "tpdeny",
       "etpdeny, tpno, etpno",
-      "Rejects teleport requests.",
+      "Отклоняет запросы на телепорт.",
       "/<command> [player|*]"
     ],
     [
       "Essentials",
       "tpohere",
       "etpohere",
-      "Teleport here override for tptoggle.",
+      "Телепорт здесь переопределяет tptoggle.",
       "/<command> <player>"
     ],
     [
       "Essentials",
       "getpos",
       "eposition",
-      "Get your current coordinates or those of a player.",
+      "Получите свои текущие координаты или координаты игрока.",
       "/<command> [player]"
     ],
     [
       "Essentials",
       "god",
       "tgm",
-      "Enables your godly powers.",
+      "Активирует ваши божественные силы.",
       "/<command> [player] [on|off]"
     ],
     [
       "Essentials",
       "ping",
       "echo, eecho, eping, pong, epong",
-      "Pong!",
+      "Понг!",
       "/<command>"
     ],
     [
       "Essentials",
       "helpop",
       "eamsg",
-      "Message online admins.",
+      "Сообщение онлайн-админам.",
       "/<command> <message>"
     ],
     [
       "Essentials",
       "skull",
       "head, playerskull, eskull, ehead, eplayerskull",
-      "Get the player head item with your skin or a skin of a specified player, or change skin of the head you're holding.",
+      "Получите предмет головы игрока со своим скином или скином указанного игрока или измените скин головы, которую вы держите.",
       "/<command> [owner]"
     ],
     [
       "Essentials",
       "broadcast",
       "ebcast, bc, bcast, ebc",
-      "Broadcasts a message to the entire server.",
+      "Рассылает сообщение на весь сервер.",
       "/<command> <msg>"
     ],
     [
       "Essentials",
       "clearinventory",
       "ci, eci, clean, eclean, clear, eclear, clearinvent, eclearinvent, eclearinventory",
-      "Clear all items in your inventory.",
+      "Очистить все предметы в вашем инвентаре.",
       "/<command> [player|*] [item[:<data>]|*|**] [amount]"
     ],
     [
       "Essentials",
       "unlimited",
       "eul",
-      "Allows the unlimited placing of items.",
+      "Позволяет неограниченное размещение предметов.",
       "/<command> <list|item|clear> [player]"
     ],
     [
       "Essentials",
       "antioch",
       "tnt",
-      "A little surprise for operators.",
+      "Небольшой сюрприз для операторов.",
       "/<command> [message]"
     ],
     [
       "Essentials",
       "fireball",
       "fireskull",
-      "Throw a fireball or other assorted projectiles.",
+      "Бросьте огненный шар или другие разнообразные снаряды.",
       "/<command> [fireball|small|large|arrow|skull|egg|snowball|expbottle|dragon|splashpotion|lingeringpotion|trident] [speed]"
     ],
     [
       "Essentials",
       "tpa",
       "tpask",
-      "Request to teleport to the specified player.",
+      "Запрос телепортации к указанному игроку.",
       "/<command> <player>"
     ],
     [
       "Essentials",
       "createkit",
       "ck",
-      "Create a kit in game!",
+      "Создайте комплект в игре!",
       "/<command> <kitname> <delay>"
     ],
     [
       "Essentials",
       "kitreset",
       "ekitreset, kitr, ekitr, resetkit, eresetkit",
-      "Resets the cooldown on the specified kit.",
+      "Сбрасывает время восстановления указанного комплекта.",
       "/<command> <kit> [player]"
     ],
     [
       "Essentials",
       "depth",
       "eheight",
-      "States current depth",
+      "Указывает текущую глубину",
       "\/depth"
     ],
     [
       "Essentials",
       "paytoggle",
       "payon",
-      "Toggles whether you are accepting payments.",
+      "Переключает, принимаете ли вы платежи.",
       "/<command> [player]"
     ],
     [
       "Essentials",
       "itemdb",
       "eitemdb",
-      "Searches for an item.",
+      "Поиск элемента.",
       "/<command> <item>"
     ],
     [
       "Essentials",
       "itemlore",
       "lore, elore, ilore, eilore, eitemlore",
-      "Edit the lore of an item.",
+      "Изменить историю предмета.",
       "/<command> <add/set/clear> [text/line] [text]"
     ],
     [
       "Essentials",
       "itemname",
       "iname, einame, eitemname, itemrename, irename, eitemrename, eirename",
-      "Renames the item your currently holding. Leave name empty to reset. You can add in color codes when you have permission to.",
+      "Переименовывает предмет, который вы сейчас держите. Оставьте имя пустым для сброса. Вы можете добавить цветовые коды, если у вас есть на это разрешение.",
       "/<command> [name]"
     ],
     [
       "Essentials",
       "afk",
       "eafk, away, eaway",
-      "Marks you as away-from-keyboard.",
+      "Отмечает вас как отсутствующего на клавиатуре.",
       "/<command> [player\/message...]"
     ],
     [
       "Essentials",
       "backup",
       "ebackup",
-      "Runs the backup if configured.",
+      "Запускает резервное копирование, если настроено.",
       "/<command>"
     ],
     [
       "Essentials",
       "burn",
       "eburn",
-      "Set a player on fire.",
+      "Поджечь игрока.",
       "/<command> <player> <seconds>"
     ],
     [
       "Essentials",
       "customtext",
       null,
-      "Allows you to create custom text commands.",
+      "Позволяет создавать собственные текстовые команды.",
       "/<alias> - Define in bukkit.yml"
     ],
     [
       "Essentials",
       "eco",
       "eeco,economy,eeconomy",
-      "Manages the server economy.",
+      "Управляет экономикой сервера.",
       "/<command> <give|take|set|reset> <player> <amount>"
     ],
     [
       "Essentials",
       "exp",
       "eexp, xp",
-      "Give, set or look at a players exp.",
+      "Дай, поставь или посмотри на опыт игроков.",
       "/<command> [show|set|give] [playername [amount]]"
     ],
     [
       "Essentials",
       "feed",
       "eat,eeat,efeed",
-      "Satisfy the hunger.",
+      "Утолить голод.",
       "/<command> [player]"
     ],
     [
       "Essentials",
       "heal",
       "eheal",
-      "Heals you or the given player.",
+      "Исцеляет вас или данного игрока.",
       "/<command> [player]"
     ],
     [
       "Essentials",
       "kit",
       "ekit,kits,ekits",
-      "Obtains the specified kit or views all available kits.",
+      "Получает указанный набор или просматривает все доступные наборы.",
       "/<command> [kit] [player]"
     ],
     [
       "Essentials",
       "kittycannon",
       "ekittycannon",
-      "Throw an exploding kitten at your opponent.",
+      "Бросьте в противника взрывающегося котенка.",
       "/<command>"
     ],
     [
       "Essentials",
       "beezooka",
       "ebeezooka, beecannon, ebeecannon",
-      "Throw an exploding bee at your opponent.",
+      "Бросьте в противника взрывающуюся пчелу.",
       "/<command>"
     ],
     [
       "Essentials",
       "nick",
       "enick,nickname,enickname",
-      "Change your nickname or that of another player.",
+      "Изменить свой никнейм или никнейм другого игрока.",
       "/<command> [player] <nickname|off>"
     ],
     [
       "Essentials",
       "nuke",
       "enuke",
-      "May death rain upon them.",
+      "Пусть смерть прольется на них.",
       "/<command> [player]"
     ],
     [
       "Essentials",
       "pay",
       "epay",
-      "Pays another player from your balance.",
+      "Платит другому игроку со своего баланса.",
       "/<command> <player> <amount>"
     ],
     [
       "Essentials",
       "r",
       "er,reply,ereply",
-      "Quickly reply to the last player to message you.",
+      "Быстро ответьте последнему игроку, отправившему вам сообщение.",
       "/<command> <message>"
     ],
     [
       "Essentials",
       "rtoggle",
       "ertoggle, replytoggle, ereplytoggle",
-      "Change whether the recipient of the reply is last recipient or last sender.",
+      "Изменить, является ли получатель ответа последним получателем или последним отправителем.",
       "/<command> [player] [on|off]"
     ],
     [
       "Essentials",
       "sell",
       "esell",
-      "Sells the item currently in your hand.",
+      "Продает предмет, который в данный момент находится в вашей руке.",
       "/<command> <<itemname>|<id>|hand|inventory|blocks> [amount]"
     ],
     [
       "Essentials",
       "showkit",
       "kitpreview,preview,kitshow",
-      "Show contents of a kit.",
+      "Показать содержимое набора.",
       "/<command> <kitname>"
     ],
     [
       "Essentials",
       "tempban",
       "etempban",
-      "Temporary ban a user.",
+      "Временная блокировка пользователя.",
       "/<command> <playername> <datediff> [reason]"
     ],
     [
       "Essentials",
       "tempbanip",
       "etempbanip",
-      "Temporarily ban an IP Address.",
+      "Временно заблокировать IP-адрес.",
       "/<command> <playername> <datediff> [reason]"
     ],
     [
       "Essentials",
       "thunder",
       "ethunder",
-      "Enable\/disable thunder.",
+      "Включить\/отключить гром.",
       "/<command> <true\/false> [duration]"
     ],
     [
       "Essentials",
       "tpaccept",
       "etpaccept,tpyes,etpyes",
-      "Accepts teleport requests.",
+      "Принимает запросы на телепорт.",
       "/<command> [player|*]"
     ],
     [
       "Essentials",
       "tphere",
       "s,etphere",
-      "Teleport a player to you.",
+      "Телепортировать игрока к вам.",
       "/<command> <player>"
     ],
     [
       "Essentials",
       "tpohere",
       "etpohere",
-      "Teleport here override for tptoggle.",
+      "Переопределить телепорт здесь для tptoggle.",
       "/<command> <player>"
     ],
     [
       "Essentials",
       "tppos",
       "etppos",
-      "Teleport to coordinates.",
+      "Телепорт по координатам.",
       "/<command> <x> <y> <z> [yaw] [pitch] [world]"
     ],
     [
       "Essentials",
       "tpr",
       "etpr, tprandom, etprandom",
-      "Teleport randomly.",
+      "Телепорт случайным образом.",
       "/<command>"
     ],
     [
       "Essentials",
       "unban",
       "pardon,eunban,epardon",
-      "Unbans the specified player.",
+      "Разбаняет указанного игрока.",
       "/<command> <player>"
     ],
     [
       "Essentials",
       "unbanip",
       "eunbanip,pardonip,epardonip",
-      "Unbans the specified IP address.",
+      "Разблокирует указанный IP-адрес.",
       "/<command> <address>"
     ],
     [
       "EssentialsSpawn",
       "setspawn",
       "esetspawn",
-      "Set the spawnpoint to your current position.",
+      "Установите точку возрождения в вашу текущую позицию.",
       "/<command> <group>"
     ],
     [
       "EssentialsSpawn",
       "spawn",
       "espawn",
-      "Teleport to the spawnpoint.",
+      "Телепортироваться к точке возрождения.",
       "/<command> [player]"
     ],
     [
       "EssentialsXMPP",
       "setxmpp",
       null,
-      "Set your xmpp address.",
+      "Установите свой адрес xmpp.",
       "/<command> <address>"
     ],
     [
       "EssentialsXMPP",
       "xmpp",
       null,
-      "Send a message to a player.",
+      "Отправить сообщение игроку.",
       "/<command> <player> <message>"
     ],
     [
       "EssentialsXMPP",
       "xmppspy",
       null,
-      "Toggle xmpp spy for all messages.",
+      "Переключить шпион xmpp для всех сообщений.",
       "/<command> <player>"
     ],
     [
       "Essentials",
       "tpauto",
       "etpauto",
-      "Automatically accept teleportation requests.",
+      "Автоматически принимать запросы на телепортацию.",
       "/<command> [player]"
     ],
     [
       "Essentials",
       "delkit",
       null,
-      "Delete a given kit",
+      "Удалить данный комплект",
       "/<command> <kitname>"
     ],
     [
       "Essentials",
       "playtime",
       null,
-      "Shows a player's time played in game",
+      "Показывает время, проведенное игроком в игре",
       "/<command> [player]"
     ],
     [
       "EssentialsDiscord",
       "discordbroadcast",
       "dbroadcast, dbc, dbcast, ediscordbroadcast, edbroadcast, edbc, edbcast",
-      "Broadcasts a message to the specified Discord channel.",
+      "Передает сообщение на указанный канал Discord.",
       "/<command> <channel> <msg>"
     ],
     [
       "EssentialsDiscord",
       "discord",
       "ediscord",
-      "Sends the discord invite link to the player.",
+      "Отправляет ссылку-приглашение в дискорд игроку.",
       "/<command>"
     ]
   ]
